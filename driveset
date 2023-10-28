@@ -1,0 +1,1 @@
+rclone --vfs-cache-mode writes mount "lmao": ~/onedrive
